@@ -1,6 +1,8 @@
 ### **R Shiny and its application in cancer care for Sarcoma patients**
 
-Author: Anirudh Bhatia(@Ani)
+**Author:** Anirudh Bhatia(@Ani)
+
+**Github Repo:** https://github.com/AnirudhB7/Hackbio_internship/blob/main/Stage_0.md
 
 **Introduction:** 
 
