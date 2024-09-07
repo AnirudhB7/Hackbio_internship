@@ -14,7 +14,8 @@ In the field of biomedical research, where we deal with large volumes of data, i
 
 The PSDB project utilizes R Shiny in projecting the real-time analysis of sarcoma patients, producing visual datasets that helped in identifying that out of 3291 confirmed cases 30.6% patients were metastatic and almost 93.5% received systemic therapy\[3]. 
 
-**Methods:**The researchers built a Model-View-Controller (MVC) framework where R shiny was integrated as a “view” component since its role was to primarily improve upon user interaction with database stored using REDCap\[4]. Using the R programming language, it allowed the researchers to implement Shiny as a bridge/platform where users could interact with complex databases stored in REDCap. Overall, R Shiny streamlined their research process.
+**Methods:**
+The researchers built a Model-View-Controller (MVC) framework where R shiny was integrated as a “view” component since its role was to primarily improve upon user interaction with database stored using REDCap\[4]. Using the R programming language, it allowed the researchers to implement Shiny as a bridge/platform where users could interact with complex databases stored in REDCap. Overall, R Shiny streamlined their research process.
 
 **Discussions**
 
