@@ -4,6 +4,8 @@ Author: Anirudh Bhatia, Hala Tariq Abdelnabi Mohammed
 
 Github Repo: [https://github.com/AnirudhB7/Hackbio\_internship/blob/main/Stage\_1.md](https://github.com/AnirudhB7/Hackbio_internship/blob/main/Stage_0.md)
 
+Video Link: 
+
 **Introduction:**
 
 Visualization of complex biological data remains a challenge in medical research. With accumulation of large volumes of data, it has become imperative to use absolutely accurate tools which can not only manage these datasets but also provide valuable information to interpret these outcomes. Most of the visualization tools require users to implement programming code to function or need paid licenses to access advanced features. In both cases, this might be challenging to a user. However, in this study we discuss SRplot (Scientific and Research plot tool) which is not only a freely available visualization tool but it was primarily developed considering biomedical research problems in mind, offering an intuitive and user-friendly platform. 
