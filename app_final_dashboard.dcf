@@ -1,0 +1,12 @@
+name: app_final_dashboard
+title: app_final_dashboard
+username: anirudhbhatia7
+account: anirudhbhatia7
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12720721
+bundleId: 9106876
+url: https://anirudhbhatia7.shinyapps.io/app_final_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
